@@ -2,3 +2,7 @@
 2024-04-06 20:32:16:3216 - [31merror[39m: [31mNão foi possível conectar![39m
 2024-04-06 20:32:16:3216 - [31merror[39m: [31mErro: MongoServerError: bad auth : authentication failed[39m
 2024-04-06 20:33:51:3351 - [31merror[39m: [31mNão foi possível conectar![39m
+2024-04-07 12:22:38:2238 - [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "10" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 12:22:44:2244 - [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 12:24:54:2454 - [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "6612b524260c2013dc4a5dd" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 12:25:05:255 - [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "6612b524260c2013dc4a5dds" (type string) at path "_id" for model "Movie"[39m
